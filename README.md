@@ -6,7 +6,8 @@ By Yuanbo Han and Wenyu Zhang, November 2018.
 
 - Gammatone Filtering
 - CNN
-	![CNN Architecture](cnn/CNN Architecture.png)
+
+	<img alt="CNN Architecture" src="cnn/CNN-Architecture.png" width="600">
 
 ### Dataset ###
 
